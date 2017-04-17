@@ -4,7 +4,7 @@ A small simple all in one IDE for HTML
 <h2>Simple HTML IDE v1.0</h2>
 Click Download below to start the download
 <br/>
-<a href="https://github.com/Inforcer25/Graphical-YouTube-DL/raw/master/GraphicalYouTube-DL%20v2.1.2.exe">
+<a href="https://github.com/Inforcer25/Simple-HTML-IDE/raw/master/Simple%20HTML%20IDE%20v1.0.exe">
   <img src="http://i.imgur.com/qoGP19r.png" alt="Download">
 </a>
 
