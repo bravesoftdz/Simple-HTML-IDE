@@ -6269,6 +6269,10 @@ object Form1: TForm1
     WordWrap = True
     OnChange = SynMemo1Change
     FontSmoothing = fsmNone
+    ExplicitLeft = 185
+    ExplicitTop = 81
+    ExplicitWidth = 855
+    ExplicitHeight = 638
   end
   object Panel2: TPanel
     Left = 0
@@ -6277,6 +6281,8 @@ object Form1: TForm1
     Height = 654
     Align = alLeft
     TabOrder = 2
+    ExplicitTop = 81
+    ExplicitHeight = 638
     object Label2: TLabel
       Left = 10
       Top = 600
@@ -6289,7 +6295,7 @@ object Form1: TForm1
       Top = 625
       Width = 31
       Height = 19
-      Caption = 'v1.2'
+      Caption = 'v1.0'
     end
     object GroupBox1: TGroupBox
       Left = 10
@@ -6405,13 +6411,13 @@ object Form1: TForm1
     Top = 496
   end
   object OpenTextFileDialog1: TOpenTextFileDialog
-    Filter = 'HTML|*.html|All Files|*.*'
+    Filter = 'HTML|*.html'
     Left = 480
     Top = 504
   end
   object SaveTextFileDialog1: TSaveTextFileDialog
     FileName = 'index.html'
-    Filter = 'HTML|*.html|All Files|*.*'
+    Filter = 'HTML|*.html'
     Left = 832
     Top = 496
   end

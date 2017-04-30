@@ -6289,7 +6289,7 @@ object Form1: TForm1
       Top = 625
       Width = 31
       Height = 19
-      Caption = 'v1.2'
+      Caption = 'v1.0'
     end
     object GroupBox1: TGroupBox
       Left = 10
