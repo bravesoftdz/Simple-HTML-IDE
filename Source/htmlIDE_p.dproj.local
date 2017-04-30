@@ -2,11 +2,11 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2017/04/17 01:00:01.000.621,=C:\Users\adria\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2017/04/17 01:00:38.000.354,C:\Users\adria\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\adria\OneDrive\Documents\Embarcadero\Studio\Projects\Simple HTML IDE\htmlIDE_u.pas</Transaction>
-    <Transaction>2017/04/17 01:00:38.000.354,C:\Users\adria\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\adria\OneDrive\Documents\Embarcadero\Studio\Projects\Simple HTML IDE\htmlIDE_u.dfm</Transaction>
-    <Transaction>2017/04/17 01:00:47.000.427,C:\Users\adria\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\adria\OneDrive\Documents\Embarcadero\Studio\Projects\Simple HTML IDE\htmlIDE_p.dproj</Transaction>
-    <Transaction>2017/04/17 01:53:10.168,=C:\Users\adria\OneDrive\Documents\Embarcadero\Studio\Projects\Simple HTML IDE\Unit2.pas</Transaction>
-    <Transaction>2017/04/17 01:53:28.356,C:\Users\adria\OneDrive\Documents\Embarcadero\Studio\Projects\Simple HTML IDE\uPreview.pas=C:\Users\adria\OneDrive\Documents\Embarcadero\Studio\Projects\Simple HTML IDE\Unit2.pas</Transaction>
-    <Transaction>2017/04/17 01:53:28.356,C:\Users\adria\OneDrive\Documents\Embarcadero\Studio\Projects\Simple HTML IDE\uPreview.dfm=C:\Users\adria\OneDrive\Documents\Embarcadero\Studio\Projects\Simple HTML IDE\Unit2.dfm</Transaction>
+    <Transaction>2017/04/17 01:00:38.000.354,C:\Users\adria\OneDrive\Documents\Embarcadero\Studio\Projects\Simple HTML IDE\htmlIDE_u.pas=C:\Users\adria\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/04/17 01:00:38.000.354,C:\Users\adria\OneDrive\Documents\Embarcadero\Studio\Projects\Simple HTML IDE\htmlIDE_u.dfm=C:\Users\adria\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017/04/17 01:00:47.000.427,C:\Users\adria\OneDrive\Documents\Embarcadero\Studio\Projects\Simple HTML IDE\htmlIDE_p.dproj=C:\Users\adria\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2017/04/17 01:53:10.000.168,=C:\Users\adria\OneDrive\Documents\Embarcadero\Studio\Projects\Simple HTML IDE\Unit2.pas</Transaction>
+    <Transaction>2017/04/17 01:53:28.000.356,C:\Users\adria\OneDrive\Documents\Embarcadero\Studio\Projects\Simple HTML IDE\Unit2.dfm=C:\Users\adria\OneDrive\Documents\Embarcadero\Studio\Projects\Simple HTML IDE\uPreview.dfm</Transaction>
+    <Transaction>2017/04/17 01:53:28.000.356,C:\Users\adria\OneDrive\Documents\Embarcadero\Studio\Projects\Simple HTML IDE\Unit2.pas=C:\Users\adria\OneDrive\Documents\Embarcadero\Studio\Projects\Simple HTML IDE\uPreview.pas</Transaction>
   </Transactions>
 </BorlandProject>
