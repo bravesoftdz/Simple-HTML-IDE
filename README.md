@@ -1,5 +1,7 @@
 <h1>Simple HTML IDE v1.2</h1>
 A Scammer Bingo that allows you to edit the buttons and allows you to have some fun
+<h1>READ!!!</h1>
+This program emulates IE. If you get script errors it means that IE isn't supported. Same goes for YouTube embeded videos on some computers
 
 <h2>Downloads</h2>
 
